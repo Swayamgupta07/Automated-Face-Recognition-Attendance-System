@@ -1,7 +1,3 @@
-Your README is well-structured, but it could use a few formatting tweaks for better readability. Here's an improved version:
-
----
-
 # Automated Face Recognition Attendance System
 
 This project is an **Automated Face Recognition Attendance System** that detects and recognizes faces from images to mark attendance. It leverages **OpenCV** and **face-recognition** libraries to identify individuals and log attendance in a CSV file.
